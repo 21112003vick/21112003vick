@@ -1,3 +1,8 @@
+# Especificación del Intérprete de Pseudocódigo Este proyecto implementa un intérprete de pseudocódigo usando Dart, que verifica la sintaxis y semántica de un pseudocódigo específico siguiendo las reglas definidas. 
+
+## Especificación EBNF
+
+
 <programa> ::= "Algoritmo" <nombre> <declaraciones> <cuerpo> "Fin"
 
 <nombre> ::= <identificador>
