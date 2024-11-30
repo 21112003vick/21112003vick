@@ -40,3 +40,4 @@
 
 <entrada_salida> ::= "Escribir" "(" <cadena> ")" ";"
                    | "Leer" "(" <identificador> ")" ";"
+
